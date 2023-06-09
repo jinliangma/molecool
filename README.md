@@ -9,7 +9,7 @@ A python package to visualize molecule
 
 ### Copyright
 
-Copyright (c) 2023, Jinliang Ma
+Copyright (c) 2023, Jinliang Ma, NETL
 
 
 #### Acknowledgements
